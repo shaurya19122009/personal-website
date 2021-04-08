@@ -1,0 +1,81 @@
+body {
+    text-align: center;
+}
+
+#welcome {
+    background: linear-gradient(black 0%, red 100%);
+    height: 500px;
+    padding: 50px;
+}
+
+#aboutme {
+    background: linear-gradient(cyan 0%, white 100%);
+    height: 500px;
+    padding: 50px;
+}
+
+#apps {
+    background: linear-gradient(blue 0%, green 100%);
+    height: 700px;
+    padding: 50px;
+}
+
+#chatbots {
+    background: linear-gradient(orange 0%, yellow 100%);
+    height: 500px;
+    padding: 50px;
+}
+
+#games {
+    background: linear-gradient(red 0%, yellow 100%);
+    height: 500px;
+    padding: 50px;
+}
+
+#location {
+    background: linear-gradient(black 0%, white 100%);
+    height: 500px;
+    padding: 50px;
+}
+
+#contact {
+    background: linear-gradient(purple 0%, red 100%);
+    height: 300px;
+    padding: 50px;
+}
+
+.heading {
+    font-family: 'Nerko One', cursive;
+    color: white;
+    text-decoration: underline;
+}
+
+#paragraph {
+    color: darkgrey;
+    font-family: 'Nerko One', cursive;
+}
+
+#introduction {
+    color: white;
+    font-family: 'Nerko One', cursive;
+    text-decoration: underline;
+}
+
+.unordered {
+    list-style: none;
+    position: fixed;
+    margin-top: 0px;
+    top: 0px;
+    z-index: 10;
+    width: 80%;
+    background-color: black;
+}
+.link{
+    display: inline;
+    padding: 30px;
+    font-size: 25px;
+    font-weight: bold;
+}
+.images{
+    height: 400px;
+}
